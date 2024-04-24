@@ -5,11 +5,6 @@
 - 🚀 Part of a team of students currently developing a picosatellite for [Innova Space](https://www.innova-space.com/en/).
 - 📣 Reach out to me on [Linkedin](https://www.linkedin.com/in/elies-garcia-alvira/).
 
-### Most used languages
-
-[//]: # (Hola)
-
-
 [//]: # ( https://github-readme-stats-beta-snowy-30.vercel.app/api?username=alias313&theme=transparent&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&rank_icon=github&include_all_commits=true&hide=stars )
 
 
