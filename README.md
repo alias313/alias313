@@ -1,8 +1,8 @@
 ### Hello, I'm Elies 👋
 
-- 📡 Currently studying for a Bachelor's degree in Telecommunications Engineering at UPC Barcelona School of Telecommunications Engineering!
+- 📡 Currently studying for a Bachelor's degree in Telecommunications Engineering at [UPC Barcelona Campus Nord](https://telecos.upc.edu/en?set_language=en)!
 - 🚀 Building stuff for fun! Currently developing [www.signaltransform.net](https://www.signaltransform.net)
-- 📖 Learning coding theory and information theory for my Bachelor thesis
+- 📖 Learning coding theory and information theory for my Bachelor's thesis
 - 📣 Reach out to me on [Linkedin](https://www.linkedin.com/in/elies-garcia-alvira/).
 
 [//]: # ( https://github-readme-stats-beta-snowy-30.vercel.app/api?username=alias313&theme=transparent&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&rank_icon=github&include_all_commits=true&hide=stars )
