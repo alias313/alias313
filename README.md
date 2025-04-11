@@ -1,6 +1,6 @@
 ### Hello, I'm Elies 👋
 
-- 📡 Currently studying for a Bachelor's degree in Telecommunications Engineering at UPC Barcelona School of Telecomm. Engineering!
+- 📡 Currently studying for a Bachelor's degree in Telecommunications Engineering at UPC Barcelona School of Telecommunications Engineering!
 - 🚀 Building stuff for fun! Currently developing [www.signaltransform.net](https://www.signaltransform.net)
 - 📖 Learning coding theory and information theory for my Bachelor thesis
 - 📣 Reach out to me on [Linkedin](https://www.linkedin.com/in/elies-garcia-alvira/).
